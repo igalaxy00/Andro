@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="button">Button</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="first_widget">first_widget</string>
+    <string name="first_widget">first_widget</string>
+</resources>
