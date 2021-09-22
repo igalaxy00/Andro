@@ -20,11 +20,13 @@
         android:text="@string/button"
        />
 
-    <ToggleButton
+    <AnalogClock
         android:id="@+id/toggleButton"
         android:layout_width="50dp"
         android:layout_height="match_parent"
         android:text="@string/togglebutton"
+        android:textColor="#FF0000"
+        android:background="#66CDAA"
         />
 
 </LinearLayout>
